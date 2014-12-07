@@ -1,0 +1,16 @@
+#####################
+## CONFIG SETTINGS ##
+#####################
+
+## THE FIRST TWO ARE 
+## THERE IF YOU NEED 
+## TO DEBUG 
+
+
+# DEBUG = True ## FLASKR DEBUGGING
+# FLATPAGES_AUTO_RELOAD = DEBUG ## FLATPAGES DEBUGGING
+
+# PARSES FILES THAT WILL BECOME PAGES
+# DEFAULT:  FLATPAGES_EXTENSION = ".md"
+# FOR MORE INFO https://pythonhosted.org/Flask-FlatPages/
+FLATPAGES_EXTENSION = ".md"
